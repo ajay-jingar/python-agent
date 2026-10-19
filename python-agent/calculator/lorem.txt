@@ -1,0 +1,1 @@
+3 + 7 * 2 should be evaluated strictly left-to-right (i.e. (3 + 7) * 2 = 20), disregarding standard operator precedence!
